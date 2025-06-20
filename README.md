@@ -396,27 +396,36 @@ git push -u origin hotfix/urgent-fix
 
 ---
 
-🙏 Thank You
-To the Community
-Thank you to all developers who use this reference guide in their daily work. Your feedback and suggestions help make this resource more valuable for everyone in the development community.
+# 🙏 Thank You
 
-To the Git & GitHub Teams
+## To the Community  
+Thank you to all developers who use this reference guide in their daily work.  
+Your feedback and suggestions help make this resource more valuable for everyone in the development community.
+
+## To the Git & GitHub Teams  
 Appreciation to the creators and maintainers of Git and GitHub for building the tools that make modern software development collaboration possible.
 
-Support This Project
+---
+
+## 💖 Support This Project
+
 If this reference guide has been helpful to you:
 
-⭐ Star this repository to show your support
-🍴 Fork it to create your own customized version
-📢 Share it with fellow developers who might find it useful
-💡 Contribute by suggesting improvements or reporting issues
+- ⭐ **Star this repository** to show your support  
+- 🍴 **Fork it** to create your own customized version  
+- 📢 **Share it** with fellow developers who might find it useful  
+- 💡 **Contribute** by suggesting improvements or reporting issues  
 
-Stay Connected
+---
 
-Found this helpful? Consider following for more developer resources
-Have questions? Feel free to open an issue for discussion
-Want to collaborate? Check out the contributing guidelines above
+## 🌐 Stay Connected
 
-Happy coding! 🚀
+- Found this helpful? Consider **following** for more developer resources  
+- Have questions? **Open an issue** for discussion  
+- Want to collaborate? **Check out the contributing guidelines above**
 
-"The best way to learn Git is to use it every day. This guide is here to help you along the journey."
+---
+
+> _"The best way to learn Git is to use it every day. This guide is here to help you along the journey."_
+
+🚀 **Happy coding!**
